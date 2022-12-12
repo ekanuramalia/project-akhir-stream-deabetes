@@ -2,7 +2,7 @@ import pickle
 import streamlit as st
                              
 #judul web
-st.title('Data Mining Prediksi Diabetes')
+st.title('Prediksi Diabetes')
 
 #membagi kolom
 col1, col2 = st.columns(2)
