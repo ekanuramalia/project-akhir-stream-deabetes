@@ -5,7 +5,7 @@ import streamlit as st
 diabetes_model = (open('diabetes_model.sav', 'rb'))
 
 #judul web
-st.title('Prediksi Diabetes')
+st.title('Data Mining Prediksi Diabetes')
 
 #membagi kolom
 col1, col2 = st.columns(2)
