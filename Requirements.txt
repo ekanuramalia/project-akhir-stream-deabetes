@@ -3,3 +3,4 @@ pandas==1.4.2
 streamlit
 scikit-learn
 pip==21.2.4
+sklearn
